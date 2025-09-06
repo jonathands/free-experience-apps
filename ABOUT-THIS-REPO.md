@@ -14,7 +14,7 @@ This is an attempt to fight back against predatory app developers that create ad
 
 ### 1:  The MUST NOTs part
 1. The app must be fully free from charge, it means no requiring upfront payments nor having freemium features
-2. The app must have no ads whatsoever, especially not from ad networks, and no third or firts party adds
+2. The app must have no ads whatsoever, especially not from ad networks, and no third or firts party ads
 3. The app must be fully functional without payments, including freemium models and [nagware
 4. The app must have no malware, I know this goes without saying, but please don't
 
