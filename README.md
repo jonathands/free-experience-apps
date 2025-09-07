@@ -1,5 +1,5 @@
 # About
-This is curated list of Free Experience Apps, meanian completelly free and ad-free apps (see ABOUT-THIS-REPO for details)
+This is curated list of Free Experience Apps, meaning completelly free and ad-free apps (see ABOUT-THIS-REPO for details)
 
 
 ## Drawing and Painting
