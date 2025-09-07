@@ -1,4 +1,5 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55e52258-d0f9-406c-a96a-0e0886a9868a" />
+
 # About
 
 This is a curated list of **Free Experience Apps** — apps that are completely free and ad-free, with no progress or usage blocked behind charges. (See [ABOUT-THIS-REPO](./ABOUT-THIS-REPO.md) for details.)
@@ -59,7 +60,7 @@ An infinite runner game, child-friendly.
 - **Credits:** [Philip Lalonde](https://www.linkedin.com/in/philip-lalonde) · [jadepug.com](https://www.jadepug.com/)
 
 ### UnCiv
-An open-source remake of *Civilization V* with mod support, built with LibGDX.
+An open-source *Civilization* like game with mod support, built with LibGDX.
 
 - **Tags:** Open-source  
 - **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.unciv.app)  
