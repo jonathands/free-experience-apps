@@ -2,6 +2,8 @@
   🇧🇷 Português | <a href="./README_ES.md">Español</a> |<a href="./README.md"> 🇺🇸 English</a>
 </p>
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55e52258-d0f9-406c-a96a-0e0886a9868a" />
+
 # Sobre
 
 Esta é uma lista curada de **Free Experience Apps** — aplicativos totalmente gratuitos e sem anúncios, sem bloqueio de progresso ou funções pagas. (Veja [ABOUT-THIS-REPO](./ABOUT-THIS-REPO.md) para mais detalhes.)
