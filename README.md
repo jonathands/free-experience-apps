@@ -1,5 +1,5 @@
 <p align="center">
-  🇧🇷 Português | <a href="./README_ES.md">Español</a> |<a href="./README.md"> 🇺🇸 English</a>
+  🇺🇸 English | 🇪🇸 <a href="./README_ES.md">Español</a> | <a href="./README.md"> 🇧🇷 Português BR </a>
 </p>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55e52258-d0f9-406c-a96a-0e0886a9868a" />
