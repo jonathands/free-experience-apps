@@ -28,3 +28,5 @@ An open source, moddability-focused Android and Desktop remake of Civ V, made wi
 
 *Credits:* Unciv is OpenSource software, you can find more about contributors and the creator at their [GitHub Repo ](https://github.com/yairm210/Unciv) or in their UnCiv's [official website ](https://yairm210.github.io/Unciv/)
 
+
+#### BEFORE INSTALLING AND FOLLOWING ANY RECOMENDATIONS READ OUR DISCLAIMER PAGE
