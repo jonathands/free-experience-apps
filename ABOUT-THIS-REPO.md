@@ -18,7 +18,8 @@ This is an attempt to counter predatory app developers who create ad-heavy apps 
 
 1. The app must be completely free of charge, with no upfront payments or premium features requiring payment
 2. The app must contain no advertisements, including those from ad networks or any third-party or first-party sources
-3. The app must be fully functional without any payment requirements, including premium features and nagware
+3. The app must be fully functional without any payment requirements, including premium features and [nagware](https://pt.wikipedia.org/wiki/Nagware)
+
 4. The app must be free from malware and malicious code
 
 ### 2: Preferred Criteria
