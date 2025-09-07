@@ -43,4 +43,4 @@ Submitting and reviewing apps will be a trust-based process. You can either crea
 
 ## After review and removal
 
-If an app is modified in a way that no longer meets the criteria, anyone can submit a pull request (PR) or an issue.
+If an app is modified in a way that no longer meets the criteria, anyone can submit a pull request (PR) or an issue to notify and ask for a review.
