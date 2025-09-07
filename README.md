@@ -1,72 +1,80 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55e52258-d0f9-406c-a96a-0e0886a9868a" />
-
 # About
-This is curated list of Free Experience Apps, free to experience mean completelly free and ad-free apps, with no progress or usage blocking for charges (see ABOUT-THIS-REPO for details)
+This is a curated list of **Free Experience Apps** — apps that are completely free and ad-free, with no progress or usage blocked behind charges. (See [ABOUT-THIS-REPO](./ABOUT-THIS-REPO.md) for details.)
 
+---
 
+# Contents
+- [Drawing & Painting](#drawing--painting)
+  - [Pug Pad](#pug-pad)
+- [Productivity & Self-Help](#productivity--self-help)
+  - [Focus Friend](#focus-friend)
+- [Finances](#finances)
+  - [Money Manager EX](#money-manager-ex)
+- [Games](#games)
+  - [Pug Rapids](#pug-rapids)
+  - [UnCiv](#unciv)
+- [Digital Toys & Kids’ Games](#digital-toys--kids-games)
+  - [Pokémon Smile](#pokémon-smile)
 
-## Drawing and Painting
-###  Pug Pad
-Pug pad is a simple drawing app 
+---
 
-* _Child friendly_
-  
+## Drawing & Painting
+### Pug Pad
+A simple, child-friendly drawing app.
 
-*Credits:* Created by [Philip Lalonde](https://www.linkedin.com/in/philip-lalonde) of [jadepug]([https://www.reddit.com/user/jadepug/](https://www.jadepug.com/))
+- **Tags:** Child-friendly  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=jadepug.pugpad)  
+- **Credits:** [Philip Lalonde](https://www.linkedin.com/in/philip-lalonde) · [jadepug.com](https://www.jadepug.com/)
 
+---
 
-(https://play.google.com/store/apps/details?id=jadepug.pugpad)
-
-## Productivity and Self-Help
-
+## Productivity & Self-Help
 ### Focus Friend
-An Idle Game aimed at keeping yourself away from the Device
+An idle game designed to help you stay away from your device.
 
-_Contains in App Purchases_
+- **Tags:** In-app purchases  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.underthing.focus.friend) · [App Store](https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016)  
+- **Credits:** Hank Green
 
-[Playstore Link](https://play.google.com/store/apps/details?id=com.underthing.focus.friend) | [Apple AppStore](https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016)
-
-*Author:* Hank Green
+---
 
 ## Finances
+### Money Manager EX
+Free and open-source finance tracker for Android and iOS. A mobile companion for the desktop Money Manager EX.
 
-### My Money Manager Ex
-Free finance and expense tracker for android, simple and easy-to-use application to manage personal finances, bank accounts, family budget, and more. The main goal is to provide a mobile implementation for an application we love to use on our desktop, Money Manager EX.
+- **Tags:** Open-source  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.money.manager.ex.android&hl=en) · [App Store](https://apps.apple.com/us/app/money-manager-ex/id6683300571)  
+- **Credits:** Community contributors
 
-* _Opensorce software_
-  
-[PlayStore Link](https://play.google.com/store/apps/details?id=com.money.manager.ex.android&hl=en) | [Apple AppStore](https://apps.apple.com/us/app/money-manager-ex/id6683300571)
+---
 
 ## Games
-
 ### Pug Rapids
+An infinite runner game, child-friendly.
 
-Is a infinite runner style game
+- **Tags:** Child-friendly  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game)  
+- **Credits:** [Philip Lalonde](https://www.linkedin.com/in/philip-lalonde) · [jadepug.com](https://www.jadepug.com/)
 
-* _Child friendly_
-  
-[Playstore Link](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game)
+### UnCiv
+An open-source remake of *Civilization V* with mod support, built with LibGDX.
 
-*Author:* Created by [Philip Lalonde](https://www.linkedin.com/in/philip-lalonde) of [jadepug]([https://www.jadepug.com/)
+- **Tags:** Open-source  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.unciv.app)  
+- **Credits:** [GitHub](https://github.com/yairm210/Unciv) · [Website](https://yairm210.github.io/Unciv/)
 
-###  UnCiv
-An open source, moddability-focused Android and Desktop remake of Civ V, made with LibGDX
+---
 
-* _Opensorce software_
-  
-[Playstore Link](https://play.google.com/store/apps/details?id=com.unciv.app)
+## Digital Toys & Kids’ Games
+### Pokémon Smile
+An AR game that helps children brush their teeth.
 
-*Credits:* Unciv is OpenSource software, you can find more about contributors and the creator at their [GitHub Repo ](https://github.com/yairm210/Unciv) or in their UnCiv's [official website ](https://yairm210.github.io/Unciv/)
+- **Tags:** In-app purchases  
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=jp.pokemon.pokemonsmile) · [App Store](https://apps.apple.com/br/app/pok%C3%A9mon-smile/id1512331079)  
+- **Credits:** The Pokémon Company
 
+---
 
-## Digital Toys / Young Childrens Games
+⚠**Disclaimer:** Before installing or following any recommendations, please read our [DISCLAIMER](./DISCLAIMER.md).
 
-### Pokemon Smile
-
-An AR enabled game/digital toy to help small kids brush their teeth
-_Contains in App Purchases_
-
-[Playstore Link](https://play.google.com/store/apps/details?id=jp.pokemon.pokemonsmile) | [AppStore Link](https://apps.apple.com/br/app/pok%C3%A9mon-smile/id1512331079)
-*Credits:* The pokemon company
-
-#### BEFORE INSTALLING AND FOLLOWING ANY RECOMENDATIONS READ OUR DISCLAIMER PAGE
