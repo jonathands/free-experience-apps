@@ -20,6 +20,7 @@ Esta es una lista curada de **Free Experience Apps** — apps completamente grat
 - [Juegos](#juegos)
   - [Pug Rapids](#pug-rapids)
   - [UnCiv](#unciv)
+  - [DataWing](#datawing)
 - [Juguetes Digitales & Juegos Infantiles](#juguetes-digitales--juegos-infantiles)
   - [Pokémon Smile](#pokémon-smile)
 
@@ -69,6 +70,13 @@ Juego open-source estilo *Civilization* con soporte a mods, construido con LibGD
 - **Tags:** Open-source  
 - **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.unciv.app)  
 - **Créditos:** [GitHub](https://github.com/yairm210/Unciv) · [Website](https://yairm210.github.io/Unciv/)
+  
+### DataWing  
+
+DATA WING es un juego que parece simple a primera vista, donde corres y aceleras a través de un laberinto elegante iluminado con neón. El juego no solo es estéticamente agradable, sino también un atractivo híbrido de carreras y rompecabezas, con una cautivadora historia relacionada con la computación.  
+
+- **Descargar:** [Play Store](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING) | [App Store](https://apps.apple.com/us/app/data-wing/id1206723870)  
+- **Créditos:** [Dan Vogt](https://www.danvogt.info/)  
 
 ---
 
