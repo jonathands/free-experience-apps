@@ -20,6 +20,7 @@ This is a curated list of **Free Experience Apps** — apps that are completely 
 - [Games](#games)
   - [Pug Rapids](#pug-rapids)
   - [UnCiv](#unciv)
+  - [DataWing](#datawing)
 - [Digital Toys & Kids’ Games](#digital-toys--kids-games)
   - [Pokémon Smile](#pokémon-smile)
 
