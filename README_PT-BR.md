@@ -69,6 +69,13 @@ Jogo open-source estilo *Civilization* com suporte a mods, feito com LibGDX.
 - **Tags:** Open-source  
 - **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.unciv.app)  
 - **Créditos:** [GitHub](https://github.com/yairm210/Unciv) · [Website](https://yairm210.github.io/Unciv/)
+  
+### DataWing  
+
+DATA WING é um jogo que aparenta ser simples à primeira vista, onde você corre e acelera por um labirinto estiloso iluminado por néon. O jogo não é apenas esteticamente agradável, mas também um envolvente híbrido de corrida e quebra-cabeça, com uma cativante história relacionada à computação.  
+
+- **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING) | [App Store](https://apps.apple.com/us/app/data-wing/id1206723870)  
+- **Créditos:** [Dan Vogt](https://www.danvogt.info/)  
 
 ---
 
